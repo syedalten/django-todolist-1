@@ -23,7 +23,7 @@ tr td.todolist-title {
 }
 
 .finished-todos li {
-  color: #00FF00;
+  color: #17d717;
   padding-left: 5pt;
   text-decoration: line-through;
 }
@@ -96,7 +96,7 @@ tr td.todolist-title {
 
 .heading-font-size {
   font-size: 1.2rem;
-  color: #999;
+  color: #17ad26;
   letter-spacing: normal;
 }
 
@@ -221,10 +221,10 @@ tr td.todolist-title {
     margin-right: 35px;
     text-decoration: none;
     line-height: 6.5rem;
-    color: #222;
+    color: #0d8e36;
   }
   .navbar-link.active {
-    color: #33C3F0;
+    color: #0b9c34;
   }
   .has-docked-nav .navbar {
     position: fixed;
@@ -270,13 +270,13 @@ tr td.todolist-title {
     pointer-events: none;
   }
   .popover-item:first-child .popover-link:after {
-    border-color: rgba(255, 255, 255, 0);
+    border-color: rgba(19, 173, 29, 0);
     border-bottom-color: #fff;
     border-width: 10px;
     margin-left: -10px;
   }
   .popover-item:first-child .popover-link:before {
-    border-color: rgba(238, 238, 238, 0);
+    border-color: rgba(13, 176, 89, 0);
     border-bottom-color: #eee;
     border-width: 11px;
     margin-left: -11px;
@@ -292,7 +292,7 @@ tr td.todolist-title {
   }
   .popover-link {
     position: relative;
-    color: #222;
+    color: #14b121;
     display: block;
     padding: 8px 20px;
     border-bottom: 1px solid #eee;
@@ -311,11 +311,11 @@ tr td.todolist-title {
     border-bottom-width: 0;
   }
   .popover-link:hover {
-    color: #fff;
-    background: #33C3F0;
+    color: #10a435;
+    background: #24e317;
   }
   .popover-link:hover,
   .popover-item:first-child .popover-link:hover:after {
-    border-bottom-color: #33C3F0;
+    border-bottom-color: #33f04c;
   }
 }
