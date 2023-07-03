@@ -54,7 +54,7 @@ tr td.todolist-title {
 }
 
 .docs-section {
-  border-top: 1px solid #eee;
+  border-top: 1px solid #1fb517;
   padding: 4rem 0;
   margin-bottom: 0;
 }
@@ -67,7 +67,7 @@ tr td.todolist-title {
 
 .example-grid .column,
 .example-grid .columns {
-  background: #EEE;
+  background: #18a72b;
   text-align: center;
   border-radius: 4px;
   font-size: 1rem;
@@ -120,7 +120,7 @@ tr td.todolist-title {
   position: relative;
   overflow: hidden;
   border-radius: 6px;
-  border: 1px solid #eee;
+  border: 1px solid #16cd62;
   height: 250px;
 }
 
@@ -132,7 +132,7 @@ tr td.todolist-title {
 .example-screenshot.coming-soon {
   width: auto;
   position: absolute;
-  background: #eee;
+  background: #0ca81e;
   top: 5px;
   right: 5px;
   bottom: 5px;
@@ -190,10 +190,10 @@ tr td.todolist-title {
     display: block;
     width: 100%;
     height: 6.5rem;
-    background: #fff;
+    background: #088e27;
     z-index: 99;
-    border-top: 1px solid #eee;
-    border-bottom: 1px solid #eee;
+    border-top: 1px solid #117b18;
+    border-bottom: 1px solid #0b6228;
   }
   .navbar-spacer {
     display: none;
@@ -249,14 +249,14 @@ tr td.todolist-title {
     position: absolute;
     top: 0;
     left: 0;
-    background: #fff;
-    border: 1px solid #eee;
+    background: #09762b;
+    border: 1px solid #07562a;
     border-radius: 4px;
     top: 92%;
     left: -50%;
-    -webkit-filter: drop-shadow(0 0 6px rgba(0, 0, 0, .1));
-    -moz-filter: drop-shadow(0 0 6px rgba(0, 0, 0, .1));
-    filter: drop-shadow(0 0 6px rgba(0, 0, 0, .1));
+    -webkit-filter: drop-shadow(0 0 6px rgba(7, 116, 29, 0.1));
+    -moz-filter: drop-shadow(0 0 6px rgba(17, 92, 46, 0.1));
+    filter: drop-shadow(0 0 6px rgba(12, 77, 44, 0.1));
   }
   .popover-item:first-child .popover-link:after,
   .popover-item:first-child .popover-link:before {
@@ -270,14 +270,14 @@ tr td.todolist-title {
     pointer-events: none;
   }
   .popover-item:first-child .popover-link:after {
-    border-color: rgba(19, 173, 29, 0);
-    border-bottom-color: #fff;
+    border-color: rgba(18, 95, 23, 0);
+    border-bottom-color: #176010;
     border-width: 10px;
     margin-left: -10px;
   }
   .popover-item:first-child .popover-link:before {
-    border-color: rgba(13, 176, 89, 0);
-    border-bottom-color: #eee;
+    border-color: rgba(5, 84, 42, 0);
+    border-bottom-color: #0c4b23;
     border-width: 11px;
     margin-left: -11px;
   }
@@ -295,7 +295,7 @@ tr td.todolist-title {
     color: #14b121;
     display: block;
     padding: 8px 20px;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #154e31;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 1.0rem;
